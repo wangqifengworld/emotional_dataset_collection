@@ -1,0 +1,13 @@
+neutral
+worried
+astonished
+disgust
+happy
+relaxed
+positive-other
+negative-other
+depress
+anger
+fear
+sadness
+grateful
